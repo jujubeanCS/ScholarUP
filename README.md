@@ -118,7 +118,7 @@ ScholarUp is a **study companion** designed with students in mind. Born from the
 - [ ] Color theme picker intead of a green color scheme
 
 ## Feature Requests
-Have an idea? [Open an issue](https://github.com/JumanaCS/ScholarUp/issues) with the `enhancement` label!
+Have an idea? [Open an issue](https://github.com/jujubeanCS/ScholarUP/issues) with the `enhancement` label!
 
 ---
 
